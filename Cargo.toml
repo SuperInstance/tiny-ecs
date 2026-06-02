@@ -1,5 +1,5 @@
 [package]
-name = "tiny-ecs"
+name = "super-tiny-ecs"
 version = "0.1.0"
 edition = "2021"
 description = "Minimal archetype-based Entity-Component-System in Rust — zero external dependencies, zero unsafe, zero allocation in hot paths"
